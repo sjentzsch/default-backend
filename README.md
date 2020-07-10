@@ -15,11 +15,11 @@ The final image is based on `scratch` image, so normal file system operations wo
 
 ## Public Builds
 
-https://hub.docker.com/r/nuvo/default-backend
+https://hub.docker.com/r/sjentzsch/default-backend
 
 
 Build from Source
 
 ```bash
-docker build -t nuvo/default-backend .
+docker build -t sjentzsch/default-backend .
 ```
